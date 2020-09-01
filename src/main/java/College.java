@@ -80,4 +80,3 @@ public class College {
 }
 
 // todo 1.one to one and many,join primary key,union key,forein key,delete students
-// teacher-recruit@whitehatejr.com
